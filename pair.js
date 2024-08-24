@@ -57,17 +57,12 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*𝐩𝐚𝐢𝐫𝐢𝐧𝐠 𝐜𝐨𝐝𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐛𝐲 𝐣𝐨𝐞𝐥_𝐭𝐞𝐜𝐡*
-*𝐦𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 𝐣𝐨𝐞𝐥_𝐢𝐭*
+
 ______________________________________
-╔════◇
-║ *『 WOW YOU'VE CHOSEN JOEL MD 』*
-║  *You Have Completed the First Step to Deploy a Whatsapp Bot.*
-╚════════════════════════╝
+╔════◇wow you have chosen Dark-Love-MD
+╚════════════════════════════════
 ╔═════◇
-║  『 𝐨𝐰𝐧𝐞𝐫 𝐢𝐧𝐟𝐨
-║❒ *Owner:* _https://wa.me/255714595078_
-║❒ *wachannel:* _https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M_
+║ keep using Dark-Love-MD md
 ╚════════════════════════╝
 _____________________________________
 
